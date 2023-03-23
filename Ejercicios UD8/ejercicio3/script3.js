@@ -8,6 +8,6 @@ let texto = "";
 //Creamos el for con una variable i que nos contará todos los meses del año, es decir
 //recorrerá el array.
 for (let i of meses) {
-    alert(meses[i]);
-    i++
+    alert(i);
+
 }
