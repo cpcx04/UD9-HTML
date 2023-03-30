@@ -12,3 +12,7 @@ if (valores[0] == valores[2]) {
 
 } else
     alert("El resultado es true")
+//Create a if
+
+
+
